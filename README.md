@@ -1,11 +1,11 @@
 <!-- README template from https://github.com/Louis3797/awesome-readme-template/blob/main/SLIMMED-README-WITHOUT-EMOJI.md?plain=1 -->
 <div align="center">
 
-  <img src="assets/logo.png" alt="logo" width="200" height="auto" />
-  <h1>Awesome Readme Template</h1>
+  <!-- <img src="assets/logo.png" alt="logo" width="200" height="auto" /> -->
+  <h1>PowerShell Utility Scripts</h1>
   
   <p>
-    An awesome README template for your projects! 
+    A place where I am saving and sharing the scripts that I have written and use for work. 
   </p>
 
   
